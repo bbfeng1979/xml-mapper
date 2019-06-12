@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Node name="Emps" src="/Employees">
+	<Node name="Emp" src="Employee">
+		<Node name="Name" src="Name" />
+		<Node name="Age" />
+		<Node name="Address">
+			<Attr name="province" src="province" />
+			<Attr name="city" src="city" />
+		</Node>
+	</Node>
+</Node>

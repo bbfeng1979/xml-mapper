@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee>
+		<Name>BoBo</Name>
+		<Age>39</Age>
+		<Address>
+			<province>重庆</province>
+			<city>重庆</city>
+			<are>渝中</are>
+			<Street>大坪正街</Street>
+		</Address>
+	</Employee>
+</Employees>
